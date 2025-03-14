@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Ewl4tpvcFii0U-un6lXewNSK0SArXKLn
 """
 
-!pip install pandas ta requests
-
 import requests
 import time
 import pandas as pd
